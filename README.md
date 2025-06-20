@@ -2,6 +2,8 @@
 
 **Associate Professor** | School of Mathematics and Statistics, Xidian University  
 📧 duanjiangtao@xidian.edu.cn | 📅 March 1993 | 🏠 China
+- GitHub: [github.com/JiangtaoDuan](https://github.com/JiangtaoDuan)  
+- Google Scholar: (https://scholar.google.com/citations?hl=en&user=ft2Yt7UAAAAJ)
 
 ---
 
@@ -39,9 +41,8 @@ Financial Econometrics, Panel Data Analysis, Big Data Analytics
 
 ---
 
-## Selected Publications
+## Publications
 1. **Duan, J.**, Bai, J., & Han, X. (2023). Quasi-maximum likelihood estimation of break point in high-dimensional factor models. *Journal of Econometrics*, 233, 209-236. [[Code]](https://github.com/JiangtaoDuan/QML-factor-model-.git) 
-
 
 2. Bai, J., **Duan, J.**, & Han, X. (2024). Likelihood ratio test for structural changes in factor models. *Journal of Econometrics*, 238, 105631.
 
@@ -52,3 +53,9 @@ Financial Econometrics, Panel Data Analysis, Big Data Analytics
 5. **Duan, J.**, Gao, W., Yanyuan Ma, & Ng, H.K.T. (2022). Efficient computational algorithms for approximate optimal designs. *Journal of Statistical Computation and Simulation*,  92(4), 764-793.
 
 6. **Duan, J.**, Gao, W., & Ng, H.K.T. (2019). Efficient Computational Algorithm for Optimal Continuous Experimental Designs. *Journal of Computational and Applied Mathematics*, 350(2019), 98–113.
+
+## Working Papers
+1.  **Duan, J.**, Bai, J., & Han, X. (2025). Singularity-Based Consistent QML Estimation of Multiple Breakpoints in High-Dimensional Factor Models. *https://arxiv.org/abs/2503.06645*. 
+
+
+
