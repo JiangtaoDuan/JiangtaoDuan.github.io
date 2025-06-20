@@ -17,7 +17,7 @@
 
 
 - **B.S.** in Information and Computing Science (2011.09-2015.07)  
-  Harbin Institute of Technology, School of Science
+  Harbin Institute of Technology, Department of Mathematics
 
 ---
 
