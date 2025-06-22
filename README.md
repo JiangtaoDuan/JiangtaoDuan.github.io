@@ -44,7 +44,7 @@ Financial Econometrics, Panel Data Analysis, Big Data Analytics
 ## Publications
 1. **Duan, J.**, Bai, J., & Han, X. (2023). Quasi-maximum likelihood estimation of break point in high-dimensional factor models. *Journal of Econometrics*, 233, 209-236. [[Code]](https://github.com/JiangtaoDuan/QML-factor-model-.git) 
 
-2. Bai, J., **Duan, J.**, & Han, X. (2024). Likelihood ratio test for structural changes in factor models. *Journal of Econometrics*, 238, 105631.
+2. Bai, J., **Duan, J.**, & Han, X. (2024). Likelihood ratio test for structural changes in factor models. *Journal of Econometrics*, 238, 105631. [[Code]](https://jiangtaoduan.github.io/LR_Test/) 
 
 3. Wang, J., & **Duan, J.*** (2024). Determining the number of attributes in the GDINA model. *British Journal of Mathematical and Statistical Psychology*, 78(1), 84-111.
 
